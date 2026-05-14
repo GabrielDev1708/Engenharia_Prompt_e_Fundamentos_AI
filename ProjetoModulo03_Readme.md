@@ -56,9 +56,7 @@ Explique como o grupo lidou com as limitações e quais soluções criativas for
 
 ## 👥 Colaboração
 
-Gabriel Paz
-Matheus Teixera, Deu a ideia
-Daniel Santos
+Gabriel De Sousa Pereira Castro
 Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
 
 ---
